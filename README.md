@@ -1,3 +1,7 @@
+MIKKEL ANDREAS OLSEN
+EMAIL: CPH-MO345@CPHBUSINESS.DK
+
+
 ### Exercises with Variables and control structures
 
 Velkommen til den første opgave-torsdag. 
