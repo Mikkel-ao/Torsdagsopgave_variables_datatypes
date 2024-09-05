@@ -34,7 +34,7 @@ void draw(){
   int y = circleSize*rowCounter;
  
    
-   ellipse(x,y,circleSize,circleSize);
+  ellipse(x,y,circleSize,circleSize);
   
   // Explaining conditional assignments. 
   // First part before the ?-mark, is a conditional. 
@@ -42,7 +42,7 @@ void draw(){
   // If not, the last value will.
   //5.d
   counter = frameCount % numberOfCircles == 0 ? 0 : counter+1;
-  rowCounter =  counter == 0 ? rowCounter+1:rowCounter;
+  rowCounter = counter == 0 ? rowCounter+1:rowCounter;
  
   // Explaining the modulus operator
   // Modulus is what is left when you divide one int with another int.
@@ -52,9 +52,9 @@ void draw(){
  
   //Add the code for 6.c here
   fill(red, green, blue);
-  red = counter == 0 ? (int)random(255):red;  
-  green = counter == 0 ? (int)random(255):green; 
-  blue = counter == 0 ? (int)random(255):blue; 
+  red = counter == 29 ? (int)random(255):red;  
+  green = counter == 29 ? (int)random(255):green; 
+  blue = counter == 29 ? (int)random(255):blue; 
   
     
     
