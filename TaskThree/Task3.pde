@@ -14,7 +14,7 @@ void setup() {
   address = "Firsskovvej 17";
   addition = 10+10;
   division = 5/5;
-  message = "How are you today?";
+  message = "In Alaska it is illegal to whisper in someone’s ear while they’re moose hunting.";
   // Task 4.c
   println("Adressse: " + address);
   println("Plus regnestykke: " + addition);
@@ -25,7 +25,7 @@ void setup() {
   address = "Troldmandens Tårn";
   addition = 20+20;
   division = 10/5;
-  message = "I'm good! How about you?";
+  message = "We share 70% of our DNA with a slug. ";
   
   println("Adressse: " + address);
   println("Plus regnestykke: " + addition);
@@ -36,7 +36,7 @@ void setup() {
   address = address + " Stuen til højre";
   addition = addition + 5;
   division = division / 2;
-  message = message + " I'm great, thanks for asking! ";
+  message = message + "You can tell a turtle’s gender by the noise it makes. Males grunt, females hiss. ";
   
   println("Adressse: " + address);
   println("Plus regnestykke: " + addition);
